@@ -1,13 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
-1. Download the zip file and extract its contents.
-2. Load the "beer_databaes.sql" file into your mysql server
+1. Download the zip file and extract its contents.<br>
+2. Load the "beer_databaes.sql" file into your mysql server<br>
 3. In the project directory, run "npm start"<br>
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-*Make sure that you have a Mysql server running on port 3306 or the database will not connect.*
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br>
+*Make sure that you have a Mysql server running on port 3306 or the database will not connect.*<br>
 The page will reload if you make edits.<br>
 
 
