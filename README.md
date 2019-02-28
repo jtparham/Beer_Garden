@@ -16,20 +16,20 @@ The page will reload if you make edits.<br>
 The test cases are designed to ensure that the filtering works as intended.
 
 Test Case: Filter None
-Prerequisite: All filters are empty
+Prerequisite: All filters are empty<br>
     1. All beers are displayed.
 
-Test Case: Filter by Name
-Prerequisite: Filter option should be set to "Contains" and all other filters are empty
-    1. Type "Hocus Pocus" into the 'Name' filter. Only Hocus Pocus should appear.
-    2. Type "hoc" into the 'Name' filter. All beers containing "hoc" will appear.
+Test Case: Filter by Name<br>
+Prerequisite: Filter option should be set to "Contains" and all other filters are empty<br>
+    1. Type "Hocus Pocus" into the 'Name' filter. Only Hocus Pocus should appear.<br>
+    2. Type "hoc" into the 'Name' filter. All beers containing "hoc" will appear.<br>
 
-Test Case: Filter by ABV
-Prerequisite: Filter option should be set to "Greater than or equal to" and all other filters are empty
-    1. Type "6" into the 'A.B.V' filter. All beers with an A.B.V less than 6 will be removed from the grid. 
+Test Case: Filter by ABV<br>
+Prerequisite: Filter option should be set to "Greater than or equal to" and all other filters are empty<br>
+    1. Type "6" into the 'A.B.V' filter. All beers with an A.B.V less than 6 will be removed from the grid. <br>
 
-Test Case: Filter by Style
-Prerequisite: Filter option should be set to "equals" and all other filters are empty
-    1. Type "American-Style Stout" into the 'Style' filter. Only beers with the exact style "American-Style Stout" will appear
+Test Case: Filter by Style<br>
+Prerequisite: Filter option should be set to "equals" and all other filters are empty<br>
+    1. Type "American-Style Stout" into the 'Style' filter. Only beers with the exact style "American-Style Stout" will appear<br>
     ** As a note, the user can switch back to contains and just type "stout" into the style filter and they will get all beers with styles
     containing the word "stout". 
