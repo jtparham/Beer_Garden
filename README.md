@@ -3,7 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 1. Download the zip file and extract its contents.
 2. Load the "beer_databaes.sql" file into your mysql server
-3. In the project directory, run "npm install"
 3. In the project directory, run "npm start"<br>
 
 Runs the app in the development mode.<br>
